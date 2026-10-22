@@ -7,3 +7,8 @@
 .yellowout {
   background-color: rgb(217, 255, 0);
 }
+
+.adjust-text {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
