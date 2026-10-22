@@ -12,3 +12,9 @@
 .odd.cooler {
   font-size: 24px;
 }
+
+#number-4 {
+  background-color: rgb(61, 216, 92);
+  font-size: 24px;
+  font-weight: bold;
+}
